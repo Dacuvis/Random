@@ -4,11 +4,18 @@
 <br>
 
 <div align="left" style="margin-top:40px">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</div>
+    <a href="URL_PROFIL_INSTAGRAM_ANDA">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
 
+    <a href="URL_PROFIL_FACEBOOK_ANDA">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+
+    <a href="URL_PROFIL_TIKTOK_ANDA">
+        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    </a>
+</div>
 -----
 
 # Item Gacha Sederhana dalam Java
